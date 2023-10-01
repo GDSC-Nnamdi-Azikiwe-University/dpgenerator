@@ -46,12 +46,12 @@ git add file or files
 git commit -m "descriptive message"
 ```
 
-7. Push your changes to your repository and make a pull request:
+7. Push your changes to your repository
 
 ```bash
 git push origin <branch-name>
 ```
 
-1. Create a pull request on the [GitHub page for this repository,](' https://github.com/GDSC-Nnamdi-Azikiwe-University/dpgenerator.git')
+8. Compare and create a pull request
 
-![Clone repo](public/readme-assets/compare-code.png)
+![Clone repo](public/readme-assets/compare-gdsc.png)
